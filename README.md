@@ -60,8 +60,6 @@ ResponsiveSlides.js is a tiny jQuery plugin that automatically creates responsiv
 •	HTML<br>
 •	CSS<br>
 •	JavaScript<br>
-•	Php<br>
-•	jQuery<br>
 
 #### INNOVATION AND CONTRIBUTION TO THE PROJECT
 
